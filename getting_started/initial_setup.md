@@ -7,6 +7,7 @@
 
 В Windows есть удобный функционал WSL (Windows Subsystem for Linux), который позволяет использовать Linux команды на Windows. Более подробно можно прочитать здесь - [What is the Windows Subsystem for Linux?](https://learn.microsoft.com/en-us/windows/wsl/about)
 Она выключена по умолчанию, поэтому нужно включить её в настройках Windows - Turn Windows features on or off
+
 <img src="https://github.com/KumoKairo/school21-pool-prep/assets/2943071/b482f4b2-2bc9-4529-ac76-8914a64179bf" alt="drawing" width="450"/>
 
 Открываем меню, листаем вниз, находим Windows Subsystem for Linux, ставим галочку:
